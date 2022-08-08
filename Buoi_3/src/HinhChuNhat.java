@@ -67,8 +67,6 @@ public class HinhChuNhat {
         } else {
             System.out.println("2 hinh co dien tich bang nhau");
         }
-
     }
-
 
 }
